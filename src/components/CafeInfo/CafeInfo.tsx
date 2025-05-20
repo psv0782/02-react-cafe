@@ -7,5 +7,4 @@ export default function CafeInfo() {
             Please rate our service by selecting one of the options below.
         </p>
     </div>
-
 }
